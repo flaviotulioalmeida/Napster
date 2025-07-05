@@ -54,7 +54,7 @@ Este sistema implementa um compartilhador de arquivos similar ao Napster origina
 
 \`\`\`bash
 # Se usando git
-git clone <url-do-repositorio>
+git clone https://github.com/flaviotulioalmeida/Napster.git
 cd file-sharing-napster
 
 # Ou extraia os arquivos baixados
