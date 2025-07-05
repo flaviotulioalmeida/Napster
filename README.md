@@ -420,5 +420,4 @@ python scripts/setup.py && python run_server.py
 Em outro terminal:
 \`\`\`bash
 python run_client.py
-#   N a p s t e r  
- 
+#
